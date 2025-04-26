@@ -15,8 +15,8 @@ It allows users to manage their daily tasks efficiently with options to **add**,
 
 ##  Tech Stack
 - React.js
-- JavaScript (ES6+)
-- HTML5 & CSS3
+- JavaScript 
+- HTML & CSS
 
 ##  Folder Structure
 ```
