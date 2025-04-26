@@ -30,7 +30,6 @@ To-Do-list-app-Using-React-main/
   │    ├── index.js
   │    └── App.css
   ├── package.json
-  └── README.md (You are here!)
 ```
 
 
